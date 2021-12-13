@@ -12,3 +12,7 @@ files structure
     ├── chicago.csv         <- Data of chicago city.
     ├── new_york_city.csv   <- Data of new york city.
     └── washington.csv      <- Data of washington city.
+
+Credits
+
+https://www.udacity.com
