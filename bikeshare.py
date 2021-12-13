@@ -102,7 +102,10 @@ def time_stats(df):
                   3:'March',
                   4:'April',
                   5:'May',
-                  6:'June'}
+                  6:'June',
+                  7:'July',
+                  8:'Agust',
+                  9:'September'}
     
     most_common_month = df['month'].value_counts().head(1).index[0]
     print('Most common month:', month_name[most_common_month])    
